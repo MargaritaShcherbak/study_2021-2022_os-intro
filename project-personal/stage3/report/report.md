@@ -90,7 +90,8 @@ header-includes:
 
 ![Меняем experience](image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-12%2015-52-58.png){#fig:002 width=70%} 
 
-3. Изменили ссылки на организации, исправили даты, описание, наименование организации, заголовок и тд). (Рис .[-@fig:003]) 
+3.  (Рис .[-@fig:003])  
+Изменили ссылки на организации, исправили даты, описание, наименование организации, заголовок и тд).
 
 ![Меняем accomplishments](image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-12%2015-53-19.png){#fig:003 width=70%} 
 
@@ -102,12 +103,12 @@ header-includes:
 
 ![Добавили картинку к посту про язык разметки](image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-12%2015-50-27.png){#fig:005 width=70%}
 
-5. Запускаем терминал, вводим следующие команды: (Рис .[-@fig:006]) 
-- hugo (~/work/blog)
+5. Запускаем терминал, вводим следующие команды:  
+- hugo (~/work/blog)  
 - cd public
 - git add .
 - git commit -am "Comment"
-- git push origin main 
+- git push origin main (Рис .[-@fig:006]) 
 
 ![Загружаем данные на гитхаб](image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-12%2015-08-02.png){#fig:006 width=70%}
 
@@ -117,7 +118,7 @@ header-includes:
 
 ![Обновлённый experience](image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-12%2015-11-28.png){#fig:008 width=70%}
 
-![Обновлённыe accomplishments](image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-12%2015-11-40.png){#fig:009 width=70%}
+![Обновлённыe accomplishments](image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-12%2020-22-17.png){#fig:009 width=70%}
 
 ![Добавились посты](image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-12%2015-11-50.png){#fig:0010 width=70%}
 
